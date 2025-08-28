@@ -1,0 +1,184 @@
+date,store,menu_item,revenue,qty,customer_segment
+1/15/2024,Legit Cafe Central,Nasi Goreng Special,85000,5,Regular
+1/15/2024,Legit Cafe Central,Es Kopi Susu,45000,9,Regular
+1/15/2024,Legit Bistro Plaza,Beef Rendang,120000,4,Premium
+1/15/2024,Legit Bistro Plaza,Thai Tea,35000,7,Regular
+1/15/2024,Legit Express Mall,Ayam Geprek,65000,8,Budget
+1/16/2024,Legit Cafe Central,Mie Ayam Spesial,72000,6,Regular
+1/16/2024,Legit Cafe Central,Jus Alpukat,38000,5,Regular
+1/16/2024,Legit Bistro Plaza,Gado-gado Premium,95000,5,Premium
+1/16/2024,Legit Express Mall,Bakso Malang,48000,12,Budget
+1/17/2024,Legit Cafe Central,Sate Ayam,90000,6,Regular
+1/17/2024,Legit Bistro Plaza,Salmon Teriyaki,185000,3,Premium
+1/17/2024,Legit Express Mall,Nasi Gudeg,42000,10,Budget
+1/18/2024,Legit Cafe Central,Ayam Bakar,78000,4,Regular
+1/18/2024,Legit Bistro Plaza,Pasta Carbonara,145000,4,Premium
+1/18/2024,Legit Express Mall,Es Campur,25000,15,Budget
+1/19/2024,Legit Cafe Central,Rawon Daging,88000,5,Regular
+1/19/2024,Legit Bistro Plaza,Lobster Thermidor,295000,2,Premium
+1/19/2024,Legit Express Mall,Pecel Lele,35000,14,Budget
+1/20/2024,Legit Cafe Central,Soto Betawi,68000,8,Regular
+1/20/2024,Legit Bistro Plaza,Wagyu Steak,385000,2,Premium
+1/20/2024,Legit Express Mall,Martabak Manis,55000,6,Budget
+1/21/2024,Legit Cafe Central,Gudeg Jogja,58000,7,Regular
+1/21/2024,Legit Bistro Plaza,Duck Confit,225000,3,Premium
+1/21/2024,Legit Express Mall,Mie Instan Upgrade,28000,18,Budget
+1/22/2024,Legit Cafe Central,Bebek Goreng,98000,4,Regular
+1/22/2024,Legit Bistro Plaza,Truffle Pasta,195000,3,Premium
+1/22/2024,Legit Express Mall,Nasi Padang,45000,11,Budget
+1/23/2024,Legit Cafe Central,Ikan Bakar,105000,5,Regular
+1/23/2024,Legit Bistro Plaza,Foie Gras,325000,2,Premium
+1/23/2024,Legit Express Mall,Bakso Urat,38000,13,Budget
+1/24/2024,Legit Cafe Central,Ayam Kremes,72000,6,Regular
+1/24/2024,Legit Bistro Plaza,Lamb Chop,245000,3,Premium
+1/24/2024,Legit Express Mall,Es Dawet,18000,20,Budget
+1/25/2024,Legit Cafe Central,Opor Ayam,65000,8,Regular
+1/25/2024,Legit Bistro Plaza,Tuna Sashimi,165000,4,Premium
+1/25/2024,Legit Express Mall,Siomay,32000,16,Budget
+1/26/2024,Legit Cafe Central,Kerak Telor,48000,6,Regular
+1/26/2024,Legit Bistro Plaza,Beef Wellington,395000,1,Premium
+1/26/2024,Legit Express Mall,Pempek Palembang,42000,9,Budget
+1/27/2024,Legit Cafe Central,Nasi Liwet,58000,7,Regular
+1/27/2024,Legit Bistro Plaza,Oyster Rockefeller,185000,4,Premium
+1/27/2024,Legit Express Mall,Cireng,22000,25,Budget
+1/28/2024,Legit Cafe Central,Sup Iga,82000,5,Regular
+1/28/2024,Legit Bistro Plaza,Caviar Platter,485000,1,Premium
+1/28/2024,Legit Express Mall,Tahu Bulat,15000,30,Budget
+1/29/2024,Legit Cafe Central,Empal Gentong,68000,6,Regular
+1/29/2024,Legit Bistro Plaza,Sea Bass Grilled,175000,3,Premium
+1/29/2024,Legit Express Mall,Klepon,28000,14,Budget
+1/30/2024,Legit Cafe Central,Ketoprak,45000,8,Regular
+1/30/2024,Legit Bistro Plaza,Risotto Mushroom,155000,4,Premium
+1/30/2024,Legit Express Mall,Gorengan Mix,35000,12,Budget
+1/31/2024,Legit Cafe Central,Pepes Ikan,78000,5,Regular
+1/31/2024,Legit Bistro Plaza,Veal Medallion,285000,2,Premium
+1/31/2024,Legit Express Mall,Cendol,25000,18,Budget
+2/1/2024,Legit Cafe Central,Gulai Kambing,95000,4,Regular
+2/1/2024,Legit Bistro Plaza,Prawn Cocktail,125000,5,Premium
+2/1/2024,Legit Express Mall,Kerupuk Udang,20000,22,Budget
+2/2/2024,Legit Cafe Central,Tongseng Sapi,88000,5,Regular
+2/2/2024,Legit Bistro Plaza,Grilled Octopus,165000,3,Premium
+2/2/2024,Legit Express Mall,Es Podeng,18000,25,Budget
+2/3/2024,Legit Cafe Central,Rendang Padang,92000,4,Regular
+2/3/2024,Legit Bistro Plaza,Chilean Sea Bass,225000,3,Premium
+2/3/2024,Legit Express Mall,Batagor,38000,11,Budget
+2/4/2024,Legit Cafe Central,Ayam Taliwang,85000,5,Regular
+2/4/2024,Legit Bistro Plaza,Lobster Bisque,95000,6,Premium
+2/4/2024,Legit Express Mall,Rujak Buah,32000,13,Budget
+2/5/2024,Legit Cafe Central,Iga Penyet,98000,4,Regular
+2/5/2024,Legit Bistro Plaza,Duck Breast,195000,3,Premium
+2/5/2024,Legit Express Mall,Pisang Goreng,28000,15,Budget
+2/6/2024,Legit Cafe Central,Pindang Ikan,72000,6,Regular
+2/6/2024,Legit Bistro Plaza,Scallops Grilled,185000,4,Premium
+2/6/2024,Legit Express Mall,Jus Jeruk,22000,18,Budget
+2/7/2024,Legit Cafe Central,Sambal Goreng Ati,68000,7,Regular
+2/7/2024,Legit Bistro Plaza,Rack of Lamb,275000,2,Premium
+2/7/2024,Legit Express Mall,Teh Tarik,15000,28,Budget
+2/8/2024,Legit Cafe Central,Sayur Asem,45000,9,Regular
+2/8/2024,Legit Bistro Plaza,Beef Tartare,145000,4,Premium
+2/8/2024,Legit Express Mall,Kopi Tubruk,12000,35,Budget
+2/9/2024,Legit Cafe Central,Lontong Sayur,52000,8,Regular
+2/9/2024,Legit Bistro Plaza,Tuna Tataki,155000,4,Premium
+2/9/2024,Legit Express Mall,Air Mineral,8000,40,Budget
+2/10/2024,Legit Cafe Central,Nasi Bakar,65000,6,Regular
+2/10/2024,Legit Bistro Plaza,Pork Belly,165000,3,Premium
+2/10/2024,Legit Express Mall,Es Teh Manis,10000,45,Budget
+2/11/2024,Legit Cafe Central,Capcay,58000,7,Regular
+2/11/2024,Legit Bistro Plaza,Venison Steak,295000,2,Premium
+2/11/2024,Legit Express Mall,Roti Bakar,25000,20,Budget
+2/12/2024,Legit Cafe Central,Kwetiau Goreng,68000,6,Regular
+2/12/2024,Legit Bistro Plaza,Halibut Fillet,205000,3,Premium
+2/12/2024,Legit Express Mall,Tempe Goreng,18000,25,Budget
+2/13/2024,Legit Cafe Central,Mie Rebus,55000,8,Regular
+2/13/2024,Legit Bistro Plaza,Wild Boar,255000,2,Premium
+2/13/2024,Legit Express Mall,Tahu Goreng,20000,22,Budget
+2/14/2024,Legit Cafe Central,Sup Kimlo,62000,7,Regular
+2/14/2024,Legit Bistro Plaza,Valentine Special Menu,385000,2,Premium
+2/14/2024,Legit Express Mall,Es Kelapa Muda,28000,16,Budget
+2/15/2024,Legit Cafe Central,Nasi Campur,72000,5,Regular
+2/15/2024,Legit Bistro Plaza,Crab Cakes,175000,4,Premium
+2/15/2024,Legit Express Mall,Kerupuk Kampung,15000,30,Budget
+2/16/2024,Legit Cafe Central,Ayam Goreng Kalasan,78000,5,Regular
+2/16/2024,Legit Bistro Plaza,Pigeon Breast,225000,3,Premium
+2/16/2024,Legit Express Mall,Jajanan Pasar,32000,14,Budget
+2/17/2024,Legit Cafe Central,Pecel Madiun,48000,9,Regular
+2/17/2024,Legit Bistro Plaza,Monkfish,195000,3,Premium
+2/17/2024,Legit Express Mall,Kerak Kacang,22000,18,Budget
+2/18/2024,Legit Cafe Central,Sop Buntut,125000,3,Regular
+2/18/2024,Legit Bistro Plaza,Escargot,115000,5,Premium
+2/18/2024,Legit Express Mall,Wedang Ronde,25000,16,Budget
+2/19/2024,Legit Cafe Central,Gule Kepala Ikan,88000,4,Regular
+2/19/2024,Legit Bistro Plaza,John Dory,185000,3,Premium
+2/19/2024,Legit Express Mall,Singkong Rebus,18000,28,Budget
+2/20/2024,Legit Cafe Central,Rujak Cingur,58000,7,Regular
+2/20/2024,Legit Bistro Plaza,Rabbit Confit,235000,2,Premium
+2/20/2024,Legit Express Mall,Getuk,28000,15,Budget
+2/21/2024,Legit Cafe Central,Nasi Krawu,65000,6,Regular
+2/21/2024,Legit Bistro Plaza,Langoustine,285000,2,Premium
+2/21/2024,Legit Express Mall,Es Kuwud,20000,22,Budget
+2/22/2024,Legit Cafe Central,Ayam Lodho,72000,5,Regular
+2/22/2024,Legit Bistro Plaza,Turbot Fillet,225000,3,Premium
+2/22/2024,Legit Express Mall,Ketan Bakar,35000,12,Budget
+2/23/2024,Legit Cafe Central,Semur Betawi,68000,6,Regular
+2/23/2024,Legit Bistro Plaza,Quail Stuffed,165000,4,Premium
+2/23/2024,Legit Express Mall,Jagung Bakar,25000,18,Budget
+2/24/2024,Legit Cafe Central,Gulai Tunjang,82000,5,Regular
+2/24/2024,Legit Bistro Plaza,Bison Steak,345000,2,Premium
+2/24/2024,Legit Express Mall,Onde-onde,32000,14,Budget
+2/25/2024,Legit Cafe Central,Tauco Babi,95000,4,Regular
+2/25/2024,Legit Bistro Plaza,Ostrich Fillet,295000,2,Premium
+2/25/2024,Legit Express Mall,Dawet Ayu,22000,20,Budget
+2/26/2024,Legit Cafe Central,Nasi Jamblang,55000,8,Regular
+2/26/2024,Legit Bistro Plaza,Kangaroo Steak,325000,2,Premium
+2/26/2024,Legit Express Mall,Bakwan Jagung,28000,16,Budget
+2/27/2024,Legit Cafe Central,Ayam Betutu,105000,3,Regular
+2/27/2024,Legit Bistro Plaza,Wild Salmon,205000,3,Premium
+2/27/2024,Legit Express Mall,Bubur Kacang,25000,18,Budget
+2/28/2024,Legit Cafe Central,Pempek Kapal Selam,68000,6,Regular
+2/28/2024,Legit Bistro Plaza,Elk Medallion,385000,1,Premium
+2/28/2024,Legit Express Mall,Es Cincau,18000,25,Budget
+3/1/2024,Legit Cafe Central,Rujak Juhi,52000,8,Regular
+3/1/2024,Legit Bistro Plaza,Abalone,445000,1,Premium
+3/1/2024,Legit Express Mall,Lumpia Basah,35000,12,Budget
+3/2/2024,Legit Cafe Central,Nasi Bogana,62000,7,Regular
+3/2/2024,Legit Bistro Plaza,King Crab Legs,385000,2,Premium
+3/2/2024,Legit Express Mall,Apem,30000,14,Budget
+3/3/2024,Legit Cafe Central,Sate Padang,78000,5,Regular
+3/3/2024,Legit Bistro Plaza,Sea Urchin,165000,4,Premium
+3/3/2024,Legit Express Mall,Tape Ketan,25000,16,Budget
+3/4/2024,Legit Cafe Central,Gulai Pakis,55000,8,Regular
+3/4/2024,Legit Bistro Plaza,Wagyu Carpaccio,225000,3,Premium
+3/4/2024,Legit Express Mall,Kolak Pisang,28000,15,Budget
+3/5/2024,Legit Cafe Central,Ayam Goreng Mentega,88000,4,Regular
+3/5/2024,Legit Bistro Plaza,Black Truffle Risotto,295000,2,Premium
+3/5/2024,Legit Express Mall,Es Kopyor,22000,18,Budget
+3/6/2024,Legit Cafe Central,Rendang Jengkol,72000,6,Regular
+3/6/2024,Legit Bistro Plaza,Bluefin Tuna,385000,2,Premium
+3/6/2024,Legit Express Mall,Rempeyek,20000,22,Budget
+3/7/2024,Legit Cafe Central,Ikan Patin Bakar,95000,4,Regular
+3/7/2024,Legit Bistro Plaza,Matsutake Mushroom,195000,3,Premium
+3/7/2024,Legit Express Mall,Gado-gado Betawi,38000,11,Budget
+3/8/2024,Legit Cafe Central,Sop Konro,105000,3,Regular
+3/8/2024,Legit Bistro Plaza,Iberico Ham,255000,2,Premium
+3/8/2024,Legit Express Mall,Ketupat Sayur,32000,13,Budget
+3/9/2024,Legit Cafe Central,Ayam Rica-rica,82000,5,Regular
+3/9/2024,Legit Bistro Plaza,Premium Sake Set,185000,4,Premium
+3/9/2024,Legit Express Mall,Kerupuk Bawang,18000,24,Budget
+3/10/2024,Legit Cafe Central,Dendeng Balado,98000,4,Regular
+3/10/2024,Legit Bistro Plaza,Champagne Pairing,325000,2,Premium
+3/10/2024,Legit Express Mall,Serabi Solo,28000,16,Budget
+3/11/2024,Legit Cafe Central,Gulai Nangka,65000,7,Regular
+3/11/2024,Legit Bistro Plaza,Wine Tasting Menu,485000,1,Premium
+3/11/2024,Legit Express Mall,Bubur Sumsum,25000,18,Budget
+3/12/2024,Legit Cafe Central,Pepes Tahu,48000,9,Regular
+3/12/2024,Legit Bistro Plaza,Chef's Tasting Menu,595000,1,Premium
+3/12/2024,Legit Express Mall,Wedang Sekoteng,22000,20,Budget
+3/13/2024,Legit Cafe Central,Nasi Kapau,72000,5,Regular
+3/13/2024,Legit Bistro Plaza,Omakase Experience,685000,1,Premium
+3/13/2024,Legit Express Mall,Putu Ayu,32000,14,Budget
+3/14/2024,Legit Cafe Central,Sayur Lodeh,52000,8,Regular
+3/14/2024,Legit Bistro Plaza,Imperial Caviar,785000,1,Premium
+3/14/2024,Legit Express Mall,Es Selendang Mayang,28000,16,Budget
+3/15/2024,Legit Cafe Central,Lontong Opor,58000,7,Regular
+3/15/2024,Legit Bistro Plaza,Gold Leaf Dessert,395000,2,Premium
+3/15/2024,Legit Express Mall,Roti Canai,35000,12,Budget
