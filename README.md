@@ -203,5 +203,5 @@ To add new analysis types:
 ## Limitations
 
 - API credit limit: $50 for assessment
-- Model context limit: ~4000 tokens
+- Model context limit: 8192 tokens
 - Dataset size: Recommended < 10MB for optimal performance
