@@ -18,7 +18,7 @@ class QwenClient:
             "model": "vllm-qwen3",
             "messages": messages,
             "temperature": kwargs.get("temperature", 0.7),
-            "max_tokens": kwargs.get("max_tokens", 1000),
+            "max_tokens": kwargs.get("max_tokens", 500),
             "top_p": kwargs.get("top_p", 0.9)
         }
         
@@ -29,6 +29,8 @@ class QwenClient:
                 json=payload,
                 timeout=30
             )
+
+            print("DEBUG Response:", response.text) 
             
             response.raise_for_status()
             result = response.json()
