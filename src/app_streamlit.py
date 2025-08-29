@@ -363,7 +363,7 @@ def show_ai_insights(dp: DataProcessor, llm: QwenClient):
 
 def show_qa_interface(dp: DataProcessor, llm: QwenClient):
     st.header("❓ Ask Questions About Your Data")
-    st.write("Tanyakan apa saja tentang data penjualan F&B Anda dalam bahasa natural!")
+    st.write("Tanyakan apa saja tentang data penjualan F&B Anda dalam bahasa Indonesia!")
     
     # Example questions
     with st.expander("💡 Contoh Pertanyaan"):
