@@ -18,7 +18,7 @@ class QwenClient:
             "model": "vllm-qwen3",
             "messages": messages,
             "temperature": kwargs.get("temperature", 0.7),
-            "max_tokens": kwargs.get("max_tokens", 500),
+            "max_tokens": kwargs.get("max_tokens", 50),
             "top_p": kwargs.get("top_p", 0.9)
         }
         
